@@ -3,5 +3,7 @@ langgraph
 langchain_community
 langchain_google_genai
 google-generativeai
-unstructured
-pdfminer
+#unstructured
+#pdfminer
+pymupdf
+faiss-cpu
